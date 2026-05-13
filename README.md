@@ -18,6 +18,13 @@ agents rises from 30% in the beginning to 50%.
 Keywords— Reinforcement Learning, Multi-agent systems,
 Soccer Simulation.
 
+
+___________________________________________
+
+              New release
+___________________________________________
+this new release has 4vs4 players and you can choose what should be your controler by default we wrote rule base bot for red team and manual control for blue team, you can change it to whatever you want, we will upolad MARL controler for blue team soon.
+
 <img width="992" height="651" alt="image" src="https://github.com/user-attachments/assets/960d4759-8f95-4e31-87d3-eedd541e1c72" />
 
 
