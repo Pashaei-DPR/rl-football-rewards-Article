@@ -17,3 +17,11 @@ after passing 50% of the episodes, the win rate of long-term
 agents rises from 30% in the beginning to 50%.
 Keywords— Reinforcement Learning, Multi-agent systems,
 Soccer Simulation.
+
+<img width="992" height="651" alt="image" src="https://github.com/user-attachments/assets/960d4759-8f95-4e31-87d3-eedd541e1c72" />
+
+
+
+
+
+
